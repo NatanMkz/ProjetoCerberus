@@ -1,0 +1,11 @@
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\bin\Debug\net8.0\ProjetoCerberus.Application.deps.json
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\bin\Debug\net8.0\ProjetoCerberus.Application.dll
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\bin\Debug\net8.0\ProjetoCerberus.Application.pdb
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\ProjetoCerberus.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\ProjetoCerberus.Application.AssemblyInfoInputs.cache
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\ProjetoCerberus.Application.AssemblyInfo.cs
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\ProjetoCerberus.Application.csproj.CoreCompileInputs.cache
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\ProjetoCerberus.Application.dll
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\refint\ProjetoCerberus.Application.dll
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\ProjetoCerberus.Application.pdb
+C:\Users\Natan\source\repos\ProjetoCerberus\ProjetoCerberus.Application\obj\Debug\net8.0\ref\ProjetoCerberus.Application.dll
