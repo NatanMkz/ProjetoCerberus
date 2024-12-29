@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ProjetoCerberus.Application/1.0.0": {
+        "dependencies": {
+          "ProjetoCerberus.Domain": "1.0.0"
+        },
         "runtime": {
           "ProjetoCerberus.Application.dll": {}
+        }
+      },
+      "ProjetoCerberus.Domain/1.0.0": {
+        "runtime": {
+          "ProjetoCerberus.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ProjetoCerberus.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoCerberus.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

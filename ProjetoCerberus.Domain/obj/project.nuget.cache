@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TlWrrOVSlNM=",
+  "dgSpecHash": "jeUnTpzlTTEPjIo3oMVmyP5eBmYVD2fHhoU4phpHf/qLQpjfYKlc+1VbmMIKbY+cIww/NvmCNJdc2TM3+nPbug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Natan\\source\\repos\\ProjetoCerberus\\ProjetoCerberus.Domain\\ProjetoCerberus.Domain.csproj",
+  "projectFilePath": "/home/natan/IdeaProjects/ProjetoCerberus/ProjetoCerberus/ProjetoCerberus.Domain/ProjetoCerberus.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

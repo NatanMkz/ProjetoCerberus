@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wJBzS3tXfC8=",
+  "dgSpecHash": "JF1ob6KSnTFv0V9f4zAE6yy3ZzI/H/ppMGYb1c9LW8fXM0/Dow7N7nRSK2xJs+N6bybHX/yjw+5TZzcyOX0s0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Natan\\source\\repos\\ProjetoCerberus\\ProjetoCerberus.Contracts\\ProjetoCerberus.Contracts.csproj",
+  "projectFilePath": "/home/natan/IdeaProjects/ProjetoCerberus/ProjetoCerberus/ProjetoCerberus.Contracts/ProjetoCerberus.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
