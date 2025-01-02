@@ -2,7 +2,7 @@ Não estou muito satisfeito com alguns softwares de SIEM que eu utilizei, portan
 
 Algumas coisas que eu gostaria de ampliar nesse projeto:
 
-* Vinculo direto com o bibliotecas de GEOIP como Censys e Shodan, para pesquisa da origem do tráfego.
+* Vinculo direto com algumas bibliotecas de GEOIP como Censys e Shodan, para pesquisa da origem do tráfego.
 * Análise Avançada de Comportamento de Usuário.
 * Módulo de Gestão de Vulnerabilidades (algo como Mitre Att8ck Framework).
 * Monitoramento de API em Microserviço.
